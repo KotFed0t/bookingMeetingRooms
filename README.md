@@ -1,0 +1,1 @@
+Project about booking of meeting rooms located around the world and working in diffrent time locations. Rooms also can work after midnight. Booking process is threadsafe by using gist index in constraint.
